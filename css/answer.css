@@ -97,7 +97,7 @@ body{
     flex-direction: column;
     width: 100%;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .answer__wrap__btn>button{
